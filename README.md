@@ -1,0 +1,2 @@
+# PSoC5LP-EEPROM
+PSoC5LP Prototyping Kit EEPROM Test
